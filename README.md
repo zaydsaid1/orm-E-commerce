@@ -30,12 +30,16 @@ Technical challenges include:
 - Relational Models
 - Database Seeding
 
-![“GET Categories,” “GET Products,” and “GET tags,”.](./Assets/video1.mov)
+![“GET Categories,” “GET Products,” and “GET tags,”.][def]
 
 The following animation shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
 
-![“GET Category by ID,” “GET One Product,” and “GET tag by id,”. ](./Assets/video2.mov)
+![“GET Category by ID,” “GET One Product,” and “GET tag by id,”. ][def2]
 
 The following animation shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
 
-![“CREATE Category,” “UPDATE Category,” and “GET tag by id.” ](./Assets/video3.mov)
+![“CREATE Category,” “UPDATE Category,” and “GET tag by id.” ][def3]
+
+[def]: ./Assets/video1.mov
+[def2]: ./Assets/video2.mov
+[def3]: ./Assets/video3.mov
